@@ -1,2 +1,2 @@
 # GameProject
-Assets, List of User defined Objects, and Working Prototype
+Assets and a list of objects used within the game.
